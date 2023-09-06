@@ -24,7 +24,8 @@ Utilize Tableau to create interactive and informative dashboards. Visualize key 
 ![image](https://github.com/AnniAgra786/Customer_Acquisition/assets/109506450/2a0f2b69-7171-4e07-9b0d-270384862cc2)
 
 # Dashboard Summary
-## Here are the key findings from the customer acquisition analysis in the EdTech industry:
+
+## Key Insights from Customer Acquisition Dashboard
 
 ## 1 Lead Accommodation: 
 The majority of leads are sourced from social media, while the website generates the fewest leads. This suggests that there may be issues with the user-friendliness of the website, which could be hindering lead generation.
@@ -51,3 +52,15 @@ Out of a total of 1547 leads, only 64 leads successfully converted. This highlig
 
 ##  9.Age Criteria:
 The majority of leads fall into the 18-year-old age group. Understanding the significance of this age criteria will help determine if it aligns with the target audience and if adjustments are needed to target other age groups effectively.
+# Manager's Dashboard 
+## Dashboard Snaps
+![image](https://github.com/AnniAgra786/Customer_Acquisition/assets/109506450/8e1af97c-fdbe-4faa-bee8-62467c2433c4)
+
+## Manager's Dashboard Insights
+
+1.SNR501MG excels thanks to teamwork and leadership. Concerns with other teams may stem from teamwork, communication, or leadership issues, impacting overall performance.
+
+2. Junior Manager Conversion Rates: JNR1016MG excels, while others face challenges. Potential reasons include training gaps, resource limitations, motivation disparities, team dynamics, and market variations. Addressing these factors can enhance overall performance among junior managers.
+
+3. The continuous decrease in follow-up calls after missed demo appointments may be due to several factors. Prospects may perceive excessive calls as intrusive, prompting a decline in responsiveness. Effective follow-up strategies should balance persistence with respect for prospects' preferences to optimize engagement and conversion rates.
+
