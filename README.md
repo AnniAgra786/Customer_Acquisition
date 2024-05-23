@@ -64,3 +64,6 @@ The majority of leads fall into the 18-year-old age group. Understanding the sig
 
 3. The continuous decrease in follow-up calls after missed demo appointments may be due to several factors. Prospects may perceive excessive calls as intrusive, prompting a decline in responsiveness. Effective follow-up strategies should balance persistence with respect for prospects' preferences to optimize engagement and conversion rates.
 
+# Dashboard Link
+https://public.tableau.com/app/profile/ananya.rakesh/viz/Customer_AcquisitionDashboard/Dashboard1
+
